@@ -40,7 +40,7 @@ Primera-Practica-MkDocs/
 │
 ├── docs/
 │   ├── logos_iconos    # Carpeta donde pondremos los archivos de iconos.
-│   ├── foto.png        # Foto de la imagen personal del perfil profesional de la anterior práctica
+│   ├── fotos.webp      # Foto de la imagen personal del perfil profesional de la anterior práctica
 │   ├── index.md        # Página principal de la documentación.
 │   ├── módulo1.md      # Primera módulo del ejercicio.
 │   ├── módulo2.md      # Segunda módulo del ejercicio.
