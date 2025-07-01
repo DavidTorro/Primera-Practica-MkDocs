@@ -14,7 +14,7 @@
 -------------------
 ## Imagen Personal:
 
-![texto alternativo](mclovin.png)
+![texto alternativo](fotos.webp)
 
 -----------------------
 ## Descripción Personal:
